@@ -86,7 +86,7 @@ const Timer = ({ initialCount }: Props) => {
           </small>
           <code>{codeText}</code>
           <small>
-            としている。この方法がベストプラクティスかどうかはわかんないが、とりあえず欲しいものは取れたので良しとする。
+            こうした。ベストプラクティスとは思えないがとりあえず良しとします。
           </small>
         </div>
       </div>
